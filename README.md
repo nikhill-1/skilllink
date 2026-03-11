@@ -2,7 +2,7 @@
 <h1 align="center">SkillLink</h1>
 <p align="center">A platform that connects Clients and Skilled Workers for local service-based work opportunities.</p>
 
----
+----
 
 ##  Tech Stack
 
