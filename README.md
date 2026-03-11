@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">SkillLink</h1>
 <p align="center">A platform that connects Clients and Skilled Workers for local service-based work opportunities.</p>
 
@@ -160,3 +161,7 @@ ___________________
 ##  Show Support
 If you like this project, please  the repository — it motivates us 
 
+=======
+# skilllink
+A platform that connects Clients and Skilled Workers for local service-based work opportunities.
+>>>>>>> d041473ddf707f47a11afd27acb7fde3ab66aa9c
